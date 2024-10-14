@@ -10,6 +10,7 @@ venue: 'IEEE TRANSACTIONS ON MEDICAL IMAGING'
 paperurl: 'https://ieeexplore.ieee.org/document/9293024'
 ---
 
+
 Sanghoon Cho, **Seoyoung Lee**, Jongha Lee, Donghyeon Lee, Hyoyi Kim, Jong-Hyun Ryu, Kilhwan Jeong, Kyu-Gyum Kim, Kwon-Ha Yoon, and Seungryong Cho   
 - MVUS filter shape simulation
 - Notch filter design
