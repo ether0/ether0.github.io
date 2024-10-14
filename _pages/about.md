@@ -14,19 +14,23 @@ Education
 - **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea   
 Ph.D. Nuclear and Quantum Engineering   
 Advisor: Seungryong Cho   
-2021 - Present   
+MAR 2021 - Present   
 - **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea   
 M.S. Nuclear and Quantum Engineering   
 Advisor: Seungryong Cho  
-2019 - 2021   
+MAR 2019 - FEB 2021   
 - **University of Southampton**, Southampton, England, United Kingdom   
 Exchange Student   
 Faculty of Engineering and Physical Sciences   
-2017 - 2018   
+AUG 2017 - JAN 2018   
 - **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea   
 B.S. Physics   
 B.S. Nuclear and Quantum Engineering (Dual major)   
-2015 - 2019   
+MAR 2015 - FEB 2019   
+- **Korea Science Academy (KSA) of KAIST**, Busan, Republic of Korea   
+MAR 2012 - FEB 2015
+- **Busan International Middle School**, Busan, Republic of Korea   
+MAR 2009 - FEB 2012   
 
 Research interests
 ======
