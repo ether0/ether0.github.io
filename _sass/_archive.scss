@@ -124,17 +124,17 @@
     font-size: $type-size-5;
   }
 
-  //.archive__item-excerpt {
-  //  display: none;
-  //}
   .archive__item-excerpt {
-     margin-top: 0;
-     font-size: $type-size-6;
-   
-     & + p {
-       text-indent: 0;
-     }
-   }
+    display: none;
+  }
+  //.archive__item-excerpt {
+  //   margin-top: 0;
+  //   font-size: $type-size-6;
+  // 
+  //   & + p {
+  //     text-indent: 0;
+  //   }
+  // }
 
   @include breakpoint($small) {
     @include gallery(5 of 10);
