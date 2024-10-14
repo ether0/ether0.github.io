@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Seoyoung Lee (Ether)"
+  name             : "Seoyoung "Ether" Lee"
   pronouns         : "she/her"  
-  bio              : "-"
+  bio              : "Ph.D. Candidate Majoring in X-ray Medical Imaging Physics"
   location         : "Daejeon, South Korea"
-  employer         : "KAIST"
+  employer         : "Dept. of Nuclear and Quantum Engineering, KAIST"
   uri              : # URL
   email            : "ether0@kaist.ac.kr" 
 
