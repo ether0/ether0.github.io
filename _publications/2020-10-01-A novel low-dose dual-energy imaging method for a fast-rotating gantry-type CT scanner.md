@@ -3,7 +3,7 @@ title: "A novel low-dose dual-energy imaging method for a fast-rotating gantry-t
 collection: publications
 category: manuscripts
 permalink: /publication/2020-10-01-A novel low-dose dual-energy imaging method for a fast-rotating gantry-type CT scanner.md
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Sanghoon Cho, **Seoyoung Lee**, Jongha Lee, Donghyeon Lee, Hyoyi Kim, Jong-Hyun Ryu, Kilhwan Jeong, Kyu-Gyum Kim, Kwon-Ha Yoon, and Seungryong Cho'
 date: 2021-03-01
 venue: 'IEEE TRANSACTIONS ON MEDICAL IMAGING'
 paperurl: 'https://ieeexplore.ieee.org/document/9293024'
