@@ -46,7 +46,11 @@
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-
+    
+    {% if post.authors %}
+      <p style="font-size: smaller"> {{ post.authors | markdownify }} !! </p>
+    {% endif %}
+    
     {% if post.excerpt and site.read_more != 'enabled' %}
       <!-- <p class="archive__item-excerpt" itemprop="description", style="font-size: smaller">{{ post.excerpt | markdownify }} ?? </p>-->
       <p style="font-size: xx-small"> {{ post.excerpt | markdownify }} ?? </p>
