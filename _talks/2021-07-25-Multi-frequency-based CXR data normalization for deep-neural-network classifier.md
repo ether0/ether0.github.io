@@ -3,7 +3,7 @@ title: "Multi-frequency-based CXR data normalization for deep-neural-network cla
 collection: talks
 category: international
 permalink: /presentations/2021-07-25-Multi-frequency-based CXR data normalization for deep-neural-network classifier
-venue: "2019 IEEE Nuclear Science Symposium (NSS) and Medical Imaging Conference (MIC)"
+venue: "AAPM 2021 64th Annual Meeting & Exhibition"
 authors: 'Hyeongseok Kim, **Seoyoung Lee**, Woo Jung Shim, Daechul Cho, Seungryong Cho'
 type: Poster
 date: 2021-07-25
