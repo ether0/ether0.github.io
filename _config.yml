@@ -80,7 +80,14 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Proceedings'
+
+# Talks Category - The following the list of conference categories and their headings
+talk_category:
+  international:
+    title: 'International'
+  domestic:
+    title: 'Domestic (Korea)'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
