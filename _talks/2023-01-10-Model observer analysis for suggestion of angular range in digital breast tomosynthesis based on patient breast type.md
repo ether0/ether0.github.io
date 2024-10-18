@@ -10,4 +10,4 @@ date: 2023-01-10
 location: "Jeju, South Korea"
 ---
 
-[More information here](hhttps://ifmia2023.thinkonweb.com/program)
+[More information here](https://ifmia2023.thinkonweb.com/program)
