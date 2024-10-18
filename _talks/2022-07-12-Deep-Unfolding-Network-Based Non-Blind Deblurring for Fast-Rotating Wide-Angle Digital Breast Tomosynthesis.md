@@ -2,11 +2,11 @@
 title: "Deep-Unfolding-Network-Based Non-Blind Deblurring for Fast-Rotating Wide-Angle Digital Breast Tomosynthesis"
 collection: talks
 category: international
-permalink: /presentations/2022-08-01-Deep-Unfolding-Network-Based Non-Blind Deblurring for Fast-Rotating Wide-Angle Digital Breast Tomosynthesis
+permalink: /presentations/2022-07-12-Deep-Unfolding-Network-Based Non-Blind Deblurring for Fast-Rotating Wide-Angle Digital Breast Tomosynthesis
 venue: "AAPM 2022 64th Annual Meeting & Exhibition"
 authors: 'Subong Hyun, **Seoyoung Lee**, Hyeongseok Kim, Seungryong Cho'
 type: Oral
-date: 2021-07-25
+date: 2022-07-12
 location: "Washington, DC"
 ---
 
