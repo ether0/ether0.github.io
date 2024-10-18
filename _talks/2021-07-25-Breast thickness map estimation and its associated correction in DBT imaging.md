@@ -3,7 +3,7 @@ title: "Breast thickness map estimation and its associated correction in DBT ima
 collection: talks
 category: international
 permalink: /presentations/2021-07-25-Breast thickness map estimation and its associated correction in DBT imaging
-venue: "AAPM 2021 64th Annual Meeting & Exhibition"
+venue: "AAPM 2021 63rd Annual Meeting & Exhibition"
 authors: '**Seoyoung Lee**, Hyeongseok Kim, Hoyeon Lee, Seungryong Cho'
 type: Poster
 date: 2021-07-25
