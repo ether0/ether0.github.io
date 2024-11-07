@@ -1,6 +1,6 @@
 ---
-title: L. Electronics
-excerpt: -
+title: "L. Electronics"
+excerpt: "-"
 collection: portfolio
 ---
 
