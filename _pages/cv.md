@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://ether0.github.io/files/CV_SLee_webpage.pdf" class="btn">Download CV</a>
+<a href="http://ether0.github.io/files/CV_SLee_webpage.pdf" class="btn" target="_blank">Download CV</a>
