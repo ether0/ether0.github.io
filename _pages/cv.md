@@ -11,3 +11,4 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="http://academicpages.github.io/files/CV_SLee_webpage.pdf" class="btn">Download CV</a>
