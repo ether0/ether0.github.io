@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://ether0.github.io/files/CV_SLee_webpage.pdf" class="btn" target="_blank">Download CV</a>
+<a href="http://ether0.github.io/files/CV_SLee_webpage.pdf" class="btn" download target="_blank">Download CV</a>
