@@ -14,7 +14,7 @@ Education
 - **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea   
 Ph.D. Nuclear and Quantum Engineering   
 Advisor: Seungryong Cho   
-MAR 2021 - Present   
+MAR 2021 - Feb 2025   
 - **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea   
 M.S. Nuclear and Quantum Engineering   
 Advisor: Seungryong Cho  
