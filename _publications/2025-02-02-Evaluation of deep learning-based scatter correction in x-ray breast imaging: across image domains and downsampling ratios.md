@@ -2,7 +2,7 @@
 title: "Evaluation of deep learning-based scatter correction in x-ray breast imaging: across image domains and downsampling ratios"
 collection: publications
 category: conferences
-permalink: /publication/2025-02-02-Evaluation of deep learning-based scatter correction in x-ray breast imaging: across image domains and downsampling ratios
+permalink: "/publication/2025-02-02-Evaluation of deep learning-based scatter correction in x-ray breast imaging: across image domains and downsampling ratios"
 authors: '**Seoyoung Lee**, Subong Hyun, Seungryong Cho'
 excerpt: ''
 date: 2025-02-02
