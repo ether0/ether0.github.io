@@ -9,6 +9,13 @@ redirect_from:
 
 I am a researcher with a strong interest in X-ray imaging and medical image processing. My areas of expertise include CT image reconstruction and X-ray breast imaging. I also have extensive experience in deep learning-based image processing. My primary interest lies in merging my domain knowledge in X-ray physics with the latest deep learning methods to explore clinical applications.
 
+Professional Experiences
+======
+- **Mayo Clinic, Rochester**,  MN, USA   
+Postdoctoral Research Fellow   
+CT Clinical Innovation Center, Dept. of Radiology
+Dept. of Artificial Intelligence and Informatics
+
 Education
 ======
 - **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea   
