@@ -10,5 +10,5 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://ether0.github.io//files/CV_SLee_webpage.pdf" class="btn" download target="_blank">Download CV</a>
-<iframe src="https://ether0.github.io//files/CV_SLee_webpage.pdf" width="90%" height="700px" style="border: none;"></iframe>
+<a href="https://ether0.github.io//files/CV_SLee_Jul28.pdf" class="btn" download target="_blank">Download CV</a>
+<iframe src="https://ether0.github.io//files/CV_SLee_Jul28.pdf" width="90%" height="700px" style="border: none;"></iframe>
