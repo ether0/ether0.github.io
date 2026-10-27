@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Objective"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a researcher with a strong interest in X-ray imaging and medical image processing. My areas of expertise include CT image reconstruction and X-ray breast imaging. I also have extensive experience in deep learning-based image processing. My primary interest lies in merging my domain knowledge in X-ray physics with the latest deep learning methods to explore clinical applications.
+I am a Postdoctoral Research Fellow at Mayo Clinic, Rochester, working on CT image reconstruction and deep learning for medical imaging. My focus is on merging domain knowledge in X-ray physics with modern deep learning methods to explore clinical applications.
+
+I am a researcher with a strong interest in X-ray imaging and medical image processing. My areas of expertise include CT image reconstruction and X-ray breast imaging. I also have extensive experience in deep learning-based image processing.
 
 Professional Experiences
 ======
