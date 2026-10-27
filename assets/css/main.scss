@@ -40,3 +40,15 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Pastel background for the left author/info panel only */
+.sidebar {
+  background-color: #e8f0f7;
+  border: 1px solid #c9d9e8;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.sidebar .author__urls {
+  background-color: #ffffff;
+}
